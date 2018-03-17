@@ -2,7 +2,7 @@
 
 This simple extension shows the option in the context menu to open a file or folder in Visual Studio Code.
 
-![Open With VSCode Example](url to img)
+![Open With VSCode Example](https://raw.githubusercontent.com/RicardoEPRodrigues/VSCodeNautilusContextMenus/master/VSCodeNautilusContextMenus.png)
 
 ## Installing
 
